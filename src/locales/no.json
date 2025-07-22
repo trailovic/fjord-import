@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "item1": "Tjenester",
+    "item2": "Om Oss",
+    "item3": "Kontakt"
+  },
+  "hero": {
+    "title": "Global handel, lokal tillit",
+    "subtitle": "Fjord Import kobler deg til pålitelige leverandører og kunder i Europa, Asia og videre."
+  },
+  "services": {
+    "title": "Våre Tjenester",
+    "cards": [
+      {
+        "title": "Import og Eksport",
+        "desc": "Vi håndterer internasjonal logistikk, samsvar og koordinering for dine globale handelsbehov."
+      },
+      {
+        "title": "Tollbehandling",
+        "desc": "La oss ta oss av tollklarering, dokumentasjon og avgiftsregler."
+      },
+      {
+        "title": "B2B Logistikk",
+        "desc": "Fra lager til levering, vi sikrer smidige B2B transportoperasjoner fra ende til ende."
+      }
+    ]
+  },
+  "about": {
+    "title": "Hvem Vi Er",
+    "desc": "Med over et tiår med erfaring i internasjonal handel, er vi en pålitelig partner for bedrifter som ønsker å effektivisere import- og eksportprosesser. Vi bygger broer mellom tilbud og etterspørsel på tvers av kontinenter."
+  },
+  "contact": {
+    "title": "Ta Kontakt",
+    "form": {
+      "name": "Navn",
+      "email": "E-post",
+      "message": "Skriv meldingen din her...",
+      "send": "Send",
+      "sending": "Sender...",
+      "success": "Meldingen ble sendt",
+      "error": "Noe gikk galt. Vennligst prøv igjen."
+    }
+  },
+  "footer": {
+    "copyright": "Alle rettigheter reservert."
+  }
+}

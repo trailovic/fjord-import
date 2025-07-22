@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "item1": "Usluge",
+    "item2": "O Nama",
+    "item3": "Kontakt"
+  },
+  "hero": {
+    "title": "Globalna trgovina, lokalno povjerenje",
+    "subtitle": "Fjord Import povezuje vas s pouzdanim dobavljačima i klijentima diljem Europe, Azije i šire."
+  },
+  "services": {
+    "title": "Naše Usluge",
+    "cards": [
+      {
+        "title": "Uvoz i Izvoz",
+        "desc": "Pružamo podršku za međunarodnu logistiku, usklađenost i koordinaciju za vaše globalne potrebe."
+      },
+      {
+        "title": "Carinsko Posredovanje",
+        "desc": "Mi se brinemo o carinskom posredovanju, dokumentaciji i propisima o pristojbama."
+      },
+      {
+        "title": "B2B Logistika",
+        "desc": "Od skladišta do isporuke, osiguravamo učinkovit B2B transport u svim fazama."
+      }
+    ]
+  },
+  "about": {
+    "title": "Tko Smo Mi",
+    "desc": "S više od desetljeća iskustva u međunarodnoj trgovini, pouzdan smo partner za poduzeća koja žele optimizirati svoje procese uvoza i izvoza. Povezujemo ponudu i potražnju diljem kontinenata."
+  },
+  "contact": {
+    "title": "Kontaktirajte Nas",
+    "form": {
+      "name": "Ime",
+      "email": "E-mail",
+      "message": "Upišite svoju poruku ovdje...",
+      "send": "Pošalji",
+      "sending": "Šalje se...",
+      "success": "Poruka uspješno poslana",
+      "error": "Nešto je pošlo po zlu. Pokušajte ponovno."
+    }
+  },
+  "footer": {
+    "copyright": "Sva prava pridržana."
+  }
+}
